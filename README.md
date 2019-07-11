@@ -10,7 +10,9 @@ I have a rough idea of how I want it to work. Basically the user will be given a
 I'm am planning on using the SlimDX API for the graphics, which is completely unnecessary. Had I decided to go with my other option,  Mono, I would be way further ahead by now due to it's simplicity, it could also make games compatible with Linux. Mono has all of the features that need since we're only rendering text, some 2D colours, some sound, JPEGs and maybe some very simple animations, having a full on graphics API like SlimDX is completely unnecessary.
 
 However my thought process went something like this.
+
 "Mono looks really simple, there are easy step-by-step guides on how to do everything I need and could enable people to make their games for Linux. Learning it could also have some real world practical use, perfect for a beginner like me"
+
 "SlimDX, thats like, games. Games are made from SlimDX, its a video games thing"
 
 I'm a moron.
