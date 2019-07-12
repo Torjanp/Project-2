@@ -1,7 +1,7 @@
 
 11/07/19 
 Since my last project I've been working to build a simple game engine for text adventures. 
-I chose this in particular because it seemed like a good way to better understand things, as when you're making a game engine, you cannot reply on IDEs too much as you're basically making one. For instance, I want to make a window appear, no problem go to VB and create a new windows forms project, except if you're making a program that makes programs that are windows forms that doesn't work.
+I chose this in particular because it seemed like a good way to better understand things, as when you're making a game engine, you cannot reply on IDEs too much as you're basically making one. For instance, I want to make a window appear, no problem go to VS and create a new windows forms project, except if you're making a program that makes programs that are windows forms that doesn't work.
 
 It's been months I've been working on this and I'm not even out of the gates. This is partly because as something I do in my free time, I'm only working on this about 6-9 hours a week, but it's mostly due to my lack of knowledge and experience, something I hope is going to get better at time. 
 
